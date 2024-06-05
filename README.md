@@ -4,7 +4,7 @@
 
 <ol>
 <li><a href="#lambda-expressions-home">Lambda expressions</a></li>
-  <li><a href="#spring-home">Spring</a></li>
+  <li><a href="#functional-interface-home">Functional Interfaces</a></li>
   <li><a href="#spring-boot-home">Spring Boot</a></li>
   <li><a href="#microservices-home">Microservices</a></li>
   <li><a href="#hibernate-home">Hibernate</a></li>
@@ -41,9 +41,8 @@ Less coding.</div>
 //Body of multiple parameter lambda  
 }  </div>
 
-<h2 id="spring-home">Spring</h2>
-
-<h2 id="spring-boot-home">Spring Boot</h2>
+ 
+<h2 id="functional-interface-home">Functional Interfaces</h2>
 <h2 id="microservices-home">Spring Boot</h2>
 <h2 id="spring-boot-home">Microservices</h2>
 <h2 id="hibernate-home">Hibernate</h2>
